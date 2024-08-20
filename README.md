@@ -33,3 +33,7 @@ src\models\sparse-autoencoder-tf-submit.ipynb
 ```
 src\bayesian-network\bn-learning-bnlearn-monolithic-submit.ipynb
 ```
+
+#### Bayesian Network implementation in GeNIe
+
+The GeNIe network file is located in ```src/model/bn-skeletion-final-submit```. This file only contains skeleton of the network. Use file from ```src/dataset/x_i_w_train_encoded.csv``` as the background dataset when doing the parameter learning in the software.
